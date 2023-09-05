@@ -1,12 +1,38 @@
-Artado advocates for an internet where everyone can freely exchange information, respect privacy and express ideas without censorship.
+# Artado
 
-<!--
+![Artado Logo](https://www.artadosearch.com/images/android-chrome-192x192.png)
 
-**Here are some ideas to get you started:**
+Welcome to the official GitHub organization for Artado! 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About Artado
+
+Artado is a community-driven project committed to enhancing your digital experience. We believe in open-source principles, privacy, and giving users control over their online activities. Our ecosystem includes innovative projects like Artado Search, Arus OS, and Celer Browser.
+
+### Our Projects
+
+- [Artado Search](https://github.com/Artado-Project/artadosearch): A privacy-focused search engine that respects your data.
+- [Arus OS](https://github.com/Arus-OS): A unique, independent Linux-based operating system with complete customization.
+- [Celer Browser](): A web browser designed for speed, privacy, and a seamless user experience.
+
+## Getting Involved
+
+We welcome contributors, developers, and enthusiasts to be part of the Artado community. Here's how you can get involved:
+
+### Contribute
+
+If you're interested in contributing to any of our projects, please follow our [contributing guidelines](https://github.com/Artado-Project/artadosearch/blob/main/CONTRIBUTING.md) for detailed instructions on how to submit your contributions.
+
+### Join the Discussion
+
+Join our active discussions and stay updated on project developments. You can find us on:
+
+- [Discord](https://discord.gg/WXCsr8zTN6)
+- [Twitter](https://twitter.com/ArtadoL)
+- [Forum](https://forum.artado.xyz/)
+
+
+## Contact Us
+
+Have questions or want to connect with us? Reach out to our team at [support@artadosearch.com](mailto:support@artadosearch.com).
+
+Thank you for your interest in Artado!

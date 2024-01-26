@@ -12,7 +12,7 @@ Artado is a community-driven project committed to enhancing your digital experie
 
 - [Artado Search](https://github.com/Artado-Project/artadosearch): A privacy-focused search engine that respects your data.
 - [Arus OS](https://github.com/Arus-OS): A unique, independent Linux-based operating system with complete customization.
-- [Celer Browser](): A web browser designed for speed, privacy, and a seamless user experience.
+- [Celer Browser](https://github.com/Artado-Project/celerbrowser): A web browser designed for speed, privacy, and a seamless user experience.
 
 ## Getting Involved
 
